@@ -24,3 +24,6 @@ This project analyzes long-term trends in U.S. affordability, comparing inflatio
 - `/notebooks` → Python cleaning and merging steps
 - `/excel` → Calculation sheets
 - `/tableau` → Dashboard and screenshots
+
+- ### Dashboard
+- Link to Tableau Public:  https://public.tableau.com/app/profile/landon.cai5596/viz/EconomicAnalysis_17615205427930/EconomicAnalysis#1
